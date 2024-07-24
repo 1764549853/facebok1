@@ -1,7 +1,1 @@
-# Facebook Static Login Form (Full offline css and js)
-
-## Author: [KasRoudra](https://github.com/KasRoudra)
-
-#### This is created for educational purposes demonstrating how phishing works.
-
-### Use/Copy it legally and provide proper credit
+facebook的钓鱼页面，ftp有时候很难上传到服务器，直接用面板的远程下载然后使用该链接即可
